@@ -1,4 +1,4 @@
 # calculus
 New repository
 
-gak
+(c) gak
